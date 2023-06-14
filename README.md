@@ -53,4 +53,4 @@ GET /course/$send_currency/$recive_currency, где: $send_currency – отпр
     make down
     ```
 ##  Скриншот структуры базы данных и заполненных таблиц
-![Screenshot from 2023-06-14 17-36-12.png](..%2F..%2FPictures%2FScreenshot%20from%202023-06-14%2017-36-12.png)
+![db.png](storage%2Fdb.png)
