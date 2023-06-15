@@ -32,7 +32,6 @@ class ImportBestRates extends Command
     protected function configure(): void
     {
         $this->url = config('services.best-change.url');
-        $this->url = Storage::disk('public')->url('info.zip');
         $this->fileTools = app(FileTools::class);
     }
 
